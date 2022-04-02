@@ -1,5 +1,5 @@
 .chip {
-  margin: 5px;
+  margin: 5px !important;
   padding: 5px !important;
   width: 245px;
   justify-content: flex-start !important;
