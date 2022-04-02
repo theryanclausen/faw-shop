@@ -1,0 +1,7 @@
+.chip {
+  margin: 5px;
+  padding: 5px !important;
+  width: 245px;
+  justify-content: flex-start !important;
+  /* display: block !important; */
+}
