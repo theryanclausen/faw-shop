@@ -4,7 +4,6 @@ import {
   AppBar,
   Grid,
   IconButton,
-  Paper,
   TextField,
   Typography,
   Button,
